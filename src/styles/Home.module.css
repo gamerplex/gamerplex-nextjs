@@ -110,10 +110,11 @@
 }
 
 .thirteen {
+  cursor: crosshair;
   display: flex;
   justify-content: center;
   align-items: center;
-  width: 75px;
+  width: 400px;
   height: 75px;
   padding: 25px 10px;
   margin-left: 16px;
