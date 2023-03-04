@@ -124,13 +124,13 @@ a {
   
 }
 .x {
-  font-size: 1.5em;
-  font-weight: 900;
+  font-size: 3.5em;
+  font-weight: 1500;
   animation: x 1s linear infinite;
   -webkit-background-clip: text;
   background-clip: text;
   -webkit-text-fill-color: transparent;
-  background-image: linear-gradient(180deg, var(--green), var(--purple));
+  background-image: linear-gradient(30deg, #c300ff, #70e5a3);
 }
 @keyframes x {
   50% {
